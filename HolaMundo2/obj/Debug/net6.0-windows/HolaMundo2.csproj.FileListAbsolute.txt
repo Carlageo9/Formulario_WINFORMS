@@ -1,0 +1,16 @@
+C:\Users\9ne04\source\repos\HolaMundo2\HolaMundo2\bin\Debug\net6.0-windows\HolaMundo2.exe
+C:\Users\9ne04\source\repos\HolaMundo2\HolaMundo2\bin\Debug\net6.0-windows\HolaMundo2.deps.json
+C:\Users\9ne04\source\repos\HolaMundo2\HolaMundo2\bin\Debug\net6.0-windows\HolaMundo2.runtimeconfig.json
+C:\Users\9ne04\source\repos\HolaMundo2\HolaMundo2\bin\Debug\net6.0-windows\HolaMundo2.dll
+C:\Users\9ne04\source\repos\HolaMundo2\HolaMundo2\bin\Debug\net6.0-windows\HolaMundo2.pdb
+C:\Users\9ne04\source\repos\HolaMundo2\HolaMundo2\obj\Debug\net6.0-windows\HolaMundo2.Form1.resources
+C:\Users\9ne04\source\repos\HolaMundo2\HolaMundo2\obj\Debug\net6.0-windows\HolaMundo2.csproj.GenerateResource.cache
+C:\Users\9ne04\source\repos\HolaMundo2\HolaMundo2\obj\Debug\net6.0-windows\HolaMundo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\9ne04\source\repos\HolaMundo2\HolaMundo2\obj\Debug\net6.0-windows\HolaMundo2.AssemblyInfoInputs.cache
+C:\Users\9ne04\source\repos\HolaMundo2\HolaMundo2\obj\Debug\net6.0-windows\HolaMundo2.AssemblyInfo.cs
+C:\Users\9ne04\source\repos\HolaMundo2\HolaMundo2\obj\Debug\net6.0-windows\HolaMundo2.csproj.CoreCompileInputs.cache
+C:\Users\9ne04\source\repos\HolaMundo2\HolaMundo2\obj\Debug\net6.0-windows\HolaMundo2.dll
+C:\Users\9ne04\source\repos\HolaMundo2\HolaMundo2\obj\Debug\net6.0-windows\refint\HolaMundo2.dll
+C:\Users\9ne04\source\repos\HolaMundo2\HolaMundo2\obj\Debug\net6.0-windows\HolaMundo2.pdb
+C:\Users\9ne04\source\repos\HolaMundo2\HolaMundo2\obj\Debug\net6.0-windows\HolaMundo2.genruntimeconfig.cache
+C:\Users\9ne04\source\repos\HolaMundo2\HolaMundo2\obj\Debug\net6.0-windows\ref\HolaMundo2.dll
